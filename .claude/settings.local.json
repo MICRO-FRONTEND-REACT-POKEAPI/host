@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc *)",
+      "Bash(cat vite.config.ts)",
+      "Bash(cat vite.config.js)",
+      "Bash(npm install *)",
+      "Bash(npm ls *)",
+      "Bash(cat .npmrc)",
+      "Bash(cat ~/.npmrc)",
+      "Bash(pnpm add *)",
+      "Skill(run)",
+      "Bash(npm run *)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
